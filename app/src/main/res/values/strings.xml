@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mad project new</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Category">Category</string>
+    <string name="Description">Description</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Signupbutton">Sign Up</string>
+    <string name="navLogin">Already have an account? Login</string>
+    <string name="Login">Login to your Account</string>
+    <string name="newuser">New user? Sign Up</string>
+    <string name="addoffer">Add your Offer</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+    <string name="discount">Discount</string>
+    <string name="uname">Cargills</string>
+    <string name="umail">cargills@gmail.com</string>
+    <string name="udescription">Enjoy the same lowest prices as your local Cargills Food City. Express and food hall store wide assortment.</string>
+    <string name="updatebut">UPDATE</string>
+    <string name="uoffers">Offers</string>
+    <string name="offer1">20% OFF for any Tea Brand 200g</string>
+    <string name="removebut">REMOVE</string>
+    <string name="addofferbut">ADD OFFER</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328154657115",
+    "project_id": "shopmanagementsystem-e898c",
+    "storage_bucket": "shopmanagementsystem-e898c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328154657115:android:f0db8daa87b6b1d22a6a7e",
+        "android_client_info": {
+          "package_name": "com.example.madprojectnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328154657115-9f91rrgjv99596ej9lfqf50k13snkvgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCakOybqUl50ljiNCRItHitN5w1o9MI1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328154657115-9f91rrgjv99596ej9lfqf50k13snkvgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
