@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_Kotlin_Bank-Offers_app</string>
+    <string name="taskhint">Enter the Bank</string>
+    <string name="assignedto">Description</string>
+    <string name="assignedby">Offer / Discount</string>
+    <string name="image_desccription">icon of a bank</string>
+    <string name="menu_title">Add Offer</string>
+</resources>
