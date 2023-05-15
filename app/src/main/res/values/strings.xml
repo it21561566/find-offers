@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Find Offers</string>
+    <array name="cities">
+        <item>colombo</item>
+        <item>Moratuwa</item>
+        <item>Dehiwala</item>
+        <item>Panadura</item>
+        <item>Kaluthara</item>
+    </array>
+</resources>
